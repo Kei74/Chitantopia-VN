@@ -15,7 +15,7 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
-    scene intro house
+    scene intro-house
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
@@ -58,6 +58,22 @@ label start:
     "But ever since the leader went into hiding, the entire nation went into decline, and soon the company I wrote for went under."
 
     "With my job gone and rampant crime ravaging the streets, I decided to finally return to my homeland."
+
+    scene Train
+
+    "As I made my way back to Chitantopia, I realised how difficult this entire decision would be."
+
+    "First of all, contact with my sister completely ceased 2 years after I left."
+
+    "It was all over the news: 'Military Coup Overthrows Queen of Chitantopia'."
+
+    "After that, the borders were closed and restricted to Chitantopians only, and all contact with the outside world was cut off."
+
+    "I still held my passport, so getting back in shouldn't be a problem."
+
+    "Still, reading that article in the news naturally made me worried about my family and friends back home, but I figured that they would be able to handle everything on their own. "
+
+    "My sister wasn't a girl to be messed with, after all!"
 
     # This ends the game.
 
