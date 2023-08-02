@@ -1,0 +1,438 @@
+BEFORE STARTING
+
+Display the disclaimer: All characters are 18+
+
+Show the menu, play Papers please Menu theme.
+
+Start the game:
+
+[SHOW PRE-DICTATOR BACKGROUND IN FRONT OF THE HOUSE]
+
+MC: "Bye, Sis! Bye Mom! I'll let you know when I get to RVDS!"
+
+Mom: "Do you have everything with you? Want me to pack you a lunch for the journey?"
+
+MC: "No Mom, I'll be fine!"
+
+Mom: "Did you pack your underwear? Do you have your card? Things are very different in RVDS, you know! The people can be very rude and-"
+
+MC: "Mom, I said I'll be fine! I'll ask you if I need any help with anything."
+
+[LOOPY WAVING SPRITE]
+
+Loopy: "You better reply to my texts every day, Onii-chan! Or else I'll come over and kick your butt!"
+
+I knelt down and pat my sister's head. She may be small, but she certainly packed a punch. I saw myself missing her a lot, and despite the harrassment she gave me, I knew that she would miss me too.
+
+MC: "I'll get you a souvenir when I come back to visit you. You better behave and listen to mom! Or I'll be the one kicking you!"
+
+Loopy grinned as I stood back up, but I could see that she was fighting back tears. She would never forgive me if I saw her cry, so I took the chance to finally leave my family behind and start a new life.
+
+That was almost 4 years ago. My sister is 18 now, Chitantopia has closed it's borders, and my life is at a dead end.
+
+[BACKGROUND IS RVDS]
+
+After moving to RVDS, I managed to find work as a journalist reviewing anime.
+
+But ever since the leader went into hiding, the entire nation went into decline, and soon the company I wrote for went under.
+
+With my job gone and rampant crime ravaging the streets, I decided to finally return to my homeland.
+
+[BACKGROUND IS TRAIN]
+
+As I made my way back to Chitantopia, I realised how difficult this entire decision would be.
+
+First of all, contact with my sister completely ceased 2 years after I left.
+
+[BACKGROUND: NEWSPAPERS]
+
+It was all over the news: 'Military Coup Overthrows Queen of Chitantopia'.
+
+After that, the borders were closed and restricted to Chitantopians only, and all contact with the outside world was cut off.
+
+I still held my passport, so getting back in shouldn't be a problem.
+
+Still, reading that article in the news naturally made me worried about my family and friends back home, but I figured that they would be able to handle everything on their own.
+
+My sister wasn't a girl to be messed with, after all!
+
+[BG BORDER]
+
+ After an hour long train ride, I found myself standing in front of Border Control.
+
+I double checked the station I was on.
+
+This is Chitantopia, right?...
+
+Why did it look like this? Did it really change this drastically after only 4 years?
+
+[BG: BORDER CONTROL]
+
+ I walked up to the man checking the passports. Nobody else was around, and it looked like I was the only person checking in the entire day.
+
+Border control dude: "Papers please."
+
+MC: "Sure, here."
+
+I handed over my passport.
+
+BC dude: "You a journalist, huh?"
+
+MC: "Ex-Journalist. I left the company."
+
+The man in the booth stared me down. I wasn't surprised. An isolated country like Chitantopia wouldn't take too kindly to people who's careers were to snoop around.
+
+BC dude: "You recognise this guy?"
+
+I look at the photo he gave me. Of course I recognised him, he was the world's most wanted terrorist, Welkin.
+
+Of course, I wasn't going to tell him that.
+
+MC: "Never seen him before."
+
+BC guy: "Alright. Entry into Chitantopia approved, cause no trouble."
+
+He stamped my passport and handed it back to be.
+
+BC guy: "Look into the camera."
+
+I looked into the camera facing me, and waited for it to take a photo.
+
+After a blinding flash, I turned back to the man in the booth.
+
+BC guy: "Welcome home. We will be keeping an eye on you."
+
+I nodded at the man and picked up my suitcase, looking over at the distant skyscrapers, which definitely weren't there 4 years ago.
+
+[BG: BORDER]
+
+I took out my phone, but it looked like the internet was blocked. Thankfully, the map still worked.
+
+I walked over to the nearest bus stop by the border and waited for the next bus to arrive.
+
+"I guess the first step is to see Loopy again..."
+
+[Fade To Title:
+
+CHITANTOPIA: THE OFFICIAL VISUAL NOVEL]
+
+[Play Papers Please theme]
+
+[BG: OUTSIDE HOUSE]
+
+This… is my house…. Right?
+
+I paused for a moment, thinking back to my memories.
+
+The layout was similar, the street name was the same… So why did it seem so alien?
+
+I sheepishly walked up to the front door and knocked.
+
+[PLAY KNOCK SOUND]
+
+After a few minutes I could hear a pair of footsteps make their way to the entrance, and I took a deep breath to face whoever was at the door.
+
+[PLAY DOOR OPENING SOUND]
+
+[SHOW LOOPY SPRITE WITH STRAIGHT FACE]
+
+Loopy: “Jeez… I already completed my State Survey-”
+
+The girl froze and looked at me, giving me a scan over with her piercing purple eyes.
+
+Loopy: “Onii-chan?! Is that really you?! I can’t believe it!”
+
+I could feel the the air escape from my lungs as my sister practically threw herself at me.
+
+[CG? LOOPY HUG]
+
+MC: “N-Nice to see you too… Could you maybe give me some breathing room?”
+
+Loopy: “No way! I haven’t hugged you in years! This one is to make up for it!”
+
+I sighed, waiting for my sister to let go of me.
+
+I looked down at her, the familiar scent of her favourite shampoo brought back memories.
+
+MC: “You know, you were tiny when I saw you last. Now look at you! You’re all grown up!”
+
+Loopy finally pulled away and gave me a cheeky grin.
+
+Loopy: Heheh… I was afraid you weren’t going to recognise me at first!”
+
+My sister then headed back into the house, opening the door wider to let me in.
+Loopy: “Come on in! We have so much to catch up on!”
+
+[BG: LIVING ROOM]
+
+And so, I caught up with my sister.
+
+We talked about many things, about how Mom and Dad were working in the government, about how Loopy lives by herself, and about my job.
+
+[SPRITE: LOOPY IDLE SMILE]
+
+Loopy: “Wow, I bet you were super worried about me! You know, I can kick anyone’s butt if they lay a finger on me!”
+
+I really didn’t doubt that. Loopy was the type of girl to beat up everyone who harmed her family.
+
+She told me about the regime which overthrew the royal family.
+
+Loopy: “Y’know, apparently the dictator is suuuper pretty… But she’s super cruel too…”
+
+MC: “Apparently? You mean you don’t know what she looks like?”
+
+Loopy: “Nope. She always gets one of her spokespeople to show up on TV. She says its to ‘Protect her identity…’ or something.”
+
+MC: “Hmm… Well I guess I don’t really blame her. Anyway, what happened to the royal family?”
+
+[SPRITE: LOOPY SAD]
+
+Loopy looked over to the wall. She seemed rather distant.
+
+I could tell that the royal family went through something horrible. Loopy hated talking about violence, so I could see why she was struggling.
+
+MC: “…I get it. Sorry for asking something like that.”
+
+[SPRITE: LOOPY IDLE]
+
+Loopy: “Don’t worry about it, Onii-chan! Anyway, that’s enough politics! You’re gonna stay here right?”
+
+I nodded. I didn’t really have anywhere else to go, after all.
+
+Loopy looked at me with a face which showed she was deep in thought.
+
+Loopy: “Well… Daddy turned your room into a study.”
+Loopy: “And the spare guest room got converted into a Chitantopia National Enrichment Center…”
+
+… A what?…
+
+[Sprite: Loopy smile]
+
+Loopy: “I guess you could sleep in my room! I can lay out a spare duvet on the floor!”
+
+My sister got up and walked over to the cupboard, pulling out a large duvet.
+
+MC: “Hey, I could just crash on the couch or something, I really don’t mind.”
+Loopy looked at me smugly.
+
+Loopy: “Come on, Onii-chan! You’ve had a long journey, so you deserve a nice place to sleep!”
+
+I sighed.
+
+There was no point arguing with her now. Oh well…
+
+Me and Loopy went up to her room, where she sprawled the duvet out onto the floor next to her bed. 
+
+Her room was exactly the same as I remembered. Girly, with lots of plush toys. 
+
+However, I noticed all of the boy band and anime posters she had were taken down.
+
+When I asked her about it, she just told me this:
+
+[sprite: Loopy frown]
+
+Loopy: “Disgraceful bands and cartoons have no place in glorious Chitantopia…”
+
+[Sprite Loopy happy]
+
+The girl seemed pleased with herself as she lay out my bed on the floor, tossing a pillow and a blanket onto the hastily made futon.
+
+She then let out a playful squeal as she jumped into it.
+
+MC: “Hey, don’t mess it up! I’m supposed to sleep there!”
+
+Loopy sat up and looked at me with a puzzled face.
+
+[sprite loopy confused]
+
+Loopy: “Huh? This is my futon. I’m giving you my bed, dummy!” 
+
+She then tossed a plush toy at my face, which I threw back at her.
+
+Loopy: “You’re so clueless sometimes. Didn’t I say you needed a nice place to rest?”
+Loopy; I’m not gonna make you sleep on the floor!”
+
+I couldn’t help but smile.
+
+MC: “Come on, I’d feel bad if you slept on the floor.”
+
+As much as I tried, my sister would keep shaking her head.
+
+Loopy: “No no no! I’d feel bad if I made YOU sleep on the floor, Onii-chan!”
+
+Our argument went back and forth for a while, just like old times.
+
+I truly felt at home.
+
+Loopy: “Alright, fine! How about we just both sleep on the bed?”
+
+I looked at her, raising an eyebrow.
+
+CHOICE (1)
+"I doubt we could both fit.":
+MC: "Is the bed really big enough for the two of us?"
+Loopy: "Hey! I’m not fat, ok?! Besides, it’s bigger than it looks!"
+"Ok fine.":
+MC: "That sounds like a valid compromise…"
+Loopy: "Hehe… I’m quite the problem solver!"
+
+With a sigh, we shake hands and agree.
+
+Loopy: “Anyway, you must be hungry! I’ll go and make dinner!”
+
+[BG: KITCHEN]
+
+I arrive at the kitchen with my sister, who bought out a plethora of different cans.
+
+I pick one up and examine it.
+
+‘CHITANTOPIA STATE PROVIDED BEEF’
+
+MC: “W-what is this?!”
+Loopy looked at me as she turned on the stove.
+
+Loopy: “Oh right, we have state-provided ingredients now. We don’t have to go out grocery shopping anymore! Isn’t that cool?!”
+
+I sigh and put the can back.
+
+My sister had a very distorted view on what was handy, and what was borderline stupid.
+
+It looked like there was a lot of things I just had to suck up and get used to here.
+
+[BG: BEDROOM]
+
+After a few hours of settling in, we sat in the bedroom to finally to catch up.
+
+MC: “So, how’s school going?”
+
+For some reason, my sister froze and looked towards the wall. She twirled a strand of her brown hair around her index finger.
+
+Loopy: “Y-y’know… all going smoothly!”
+
+It didn’t take a genius to see that things were not going smoothly.
+
+MC: “Very funny. Come on, tell me your most recent test score…”
+
+I wait for her reply, raising an eyebrow as she paused for a moment.
+
+Loopy: “Uh… well…. oh, remember Tsuruya?!”
+
+I stare at her.
+
+Of course, this is a lousy attempt to change the subject. But I was curious.
+
+But I wasn’t going to allow her to weasel her way out of that.
+"Test answers. Now.":
+MC: "Hey, you aren’t gonna get away that easily."
+
+Loopy looks at me angrily, before rolling her eyes. 
+
+She then gets up off the bed, and begins rummaging around in her schoolbag.
+
+After a few seconds, she pulls out a piece of scrumpled up paper and tosses it towards me.
+Loopy: "Jeez… you sound just like Mom…"
+
+With a sigh, she sat back down on the bed.
+
+Loopy: “Well… go ahead and scold me…”
+
+I stared at the sheet of paper in front of me.
+
+She got a grand total of… 14%
+
+MC: “Care to explain?”
+
+Loopy: “S-Shut up! I was busy doing stuff.”
+
+I give her a stern look.
+
+Loopy: “Well, I was going to tell you! If you just let me finish talking about Tsuruya…”
+
+I sigh, rolling my eyes.
+MC: "Yeah… so what did you want to tell me about her?”
+
+Tsuruya was a friend of ours. We knew her ever since the two of us were kids.
+
+I completely forgot to ask about her. She stopped contacting me ever since I moved out, and Loopy didn’t tell me much about her in her letters, either.
+
+Loopy looked at me, fidgeting with her fingers.
+
+Loopy: “Well… she isn’t the same as she used to be. I had to look after her, and I didn’t get enough time to study!”
+
+I sighed once again,
+
+MC: “What do you mean? What happened to her?”
+
+Loopy glanced at me, before bringing her knees up to her chin. A gloomy expression replaced her usual cheery one. I guess even my energetic sister could be pretty down at times…
+
+Loopy: “Well, she dropped out of school soon after you left.”
+
+Loopy: “She sits at home all day. I have to bring her food and check up on her. You should see her room, it’s filled with garbage!”
+
+I was confused. Sure, Tsuruya had always been pretty antisocial, but this was pretty extreme.
+
+MC: “I see… maybe I’ll have to check up on her while I’m here.”
+
+Loopy looked up at me, that signature glint in her eyes.
+
+Loopy: “Yes, that would be a great idea! I’m sure she’ll be so happy to see you!”
+
+I smirk at my sister.
+
+MC: “And your test scores will start to go up, right?”
+
+Loopy paused, before blushing adorably.
+
+Loopy: “O-of course! Don’t underestimate the mighty Loopy! I can do anything when I put my head into it!”
+
+I chuckle and ruffle her hair, just like old times.
+
+MC: “It’s getting pretty late, huh? How about we go to sleep?”
+
+Loopy nodded, giving me a warm smile as she patted down her pyjamas.
+
+I watched as she walked over to the light, flicking it off before jumping into the bed with me.
+
+It was pretty cold in Chitantopia, nothing like the warm weather I was used to back in RVDS.
+
+But sleeping in this bed with my sister… 
+
+It was a familiar warmth I hadn’t felt in a while.
+
+Loopy: “Mhhhmmm…. Onii-chan…”
+
+I slowly open my eyes.
+
+I can feel something tugging at my shirt.
+
+MC: “Huh… what’s going on?…”
+
+I rub my eyes and slowly blinked the sleep away.
+
+The room was dead quiet, but soon I could hear screams coming from outside.
+
+Woman from outside: “No! You can’t do this! I haven’t-”
+
+I froze as the screaming was cut off by a gunshot.
+
+What the hell was going on out there?
+
+I slowly sat up, preparing myself to look out of the window.
+
+As I lifted my head, I could feel my sister’s hands tug at my arm, pulling me back into the bed.
+
+Loopy: “Onii-chan… Don’t go. Stay here with me.”
+
+I glanced at my sister. It was hard to tell if she was half asleep or not.
+
+One thing was for sure though, she didn’t want me to leave her alone…
+
+I sighed and climbed back into bed, my mind racing about what happened outside.
+
+I tried going back to sleep, but I was now wide awake.
+
+Loopy clutched my shirt, and I could feel her gentle breaths against my face. 
+
+I stare up at the ceiling, waiting for the hours to go by.
+
+This place has really changed… I guess the first thing to do tomorrow was meet up with Tsuruya…
